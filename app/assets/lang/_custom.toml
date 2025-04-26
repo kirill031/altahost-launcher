@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "AltaHost Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "#"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://dsc.altahost.it"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU ALTAHOST"
+welcomeDescription = "Sei a pochi passi da AltaHost"
+welcomeDescCTA = "Copyright © 2025 AltaHost®"
