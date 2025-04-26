@@ -2860,7 +2860,6 @@ input:checked + .toggleSwitchSlider:before {
     position: relative;
     border: 2px solid white;
     box-sizing: border-box;
-    border-radius: 50%;
 }
 
 /* Logo container styles. */
@@ -2868,7 +2867,6 @@ input:checked + .toggleSwitchSlider:before {
     position: relative;
     height: 70px;
     width: 70px;
-    border-radius: 50%;
     margin-top: 50px;
 }
 
@@ -3022,6 +3020,11 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
 }
 
 /* Social media icon content container. */
